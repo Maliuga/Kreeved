@@ -55,7 +55,7 @@ const Header = () => {
                             <Link to="/readList" className='readList-link'>
                                 <BsBookmarks />
                                 <span id="readListLength">
-                                    {activeUser.readListLength}
+
                                 </span>
                             </Link>
                             <div className='header-profile-wrapper '>
